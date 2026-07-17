@@ -1,8 +1,6 @@
 ## WQU MScFE 600 Financial Data — Group Work Project 1
 A comprehensive quantitative finance pipeline developed for WorldQuant University (WQU) MScFE 600 (Financial Data) Course. This repository contains the mathematical modeling frameworks, structural analysis scripts, and empirical asset pipelines required to complete all core modules of Group Work Project #1.
 
-## Contributed Team Member
-SHIJIE DING
 ------------------------------
 ## 🚀 Key Modules & Analytical Scope
 ## 1. Data Quality & Structural Integrity Assessment
